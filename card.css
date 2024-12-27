@@ -1,0 +1,38 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+.image{
+    width: 150px;
+
+}
+
+.align{
+    text-align: center;
+}
+.card{
+
+    width: 400px;
+    margin: 0 auto;
+    /*margin-left:auto;
+    margin-right:auto*/
+
+    /*margin-top:10px;
+    margin-right:20px;
+    margin-bottom:30px;
+    margin-left:40px;===>         margin 10px 20px 30px 40px */
+    padding: 20px;
+    display:flex;
+    justify-content: space-around;
+    background: #ddebf8;
+    border-bottom: 2px #decefe;
+    color: #2b2839;
+    border-bottom: 5px solid #d8cefe;
+}
+
+.border-blue{
+    border: 1px dotted blue;
+}
